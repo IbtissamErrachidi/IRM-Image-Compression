@@ -49,7 +49,8 @@ Here are some related projects that might interest you:
 - [Image Compression with K-means](https://github.com/bibekkakati/image-compression-using-k-means)
 
 ## Screenshot
-![Screenshot](https://github.com/IbtissamErrachidi/IbtissamErrachidi.github.io)
+<img width="820" height="517" alt="image" src="https://github.com/user-attachments/assets/39f4db78-56e5-4481-b2e4-08dc42c72895" />
+
 
 ## Steps of the IRM Compression Algorithm
 1. **Preprocessing**: Extract pixel matrices from the RGB image.
