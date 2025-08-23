@@ -5,7 +5,7 @@ In this innovative approach, we are committed to developing a revolutionary new 
 
 Through practical and experimental simulations using Python, we will test the encoding and decoding processes for each compression method, allowing a thorough evaluation of the IRM format's performance. A user-friendly graphical interface will be developed to facilitate image compression into the .IRM format, featuring tools for measuring compression quality and compression ratio.
 
-[Link to deployed site](https://ibtissamerrachidi.github.io/)
+
 
 Authors:
 - [Ibtissam Er Rachidi LinkedIn](https://www.linkedin.com/in/ibtissam-er-rachidi-44a257255/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
